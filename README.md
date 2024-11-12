@@ -1,13 +1,10 @@
-This Project made by me at the time, When I was learning full stack web development course.
-This is the Wanderlust Web Project made by using Frontend Technologies + Backend Technologies + Database.
-This Project is very helpful for those people, who's search rooms and hotels for stay. this web site help them to search rooms and hotels. 
-this Project is for rooms owners as well as hotel owners also, they can upload their hotels rooms on this website with full deatils that can help passangers to search the destination.
+I created this project while learning a full-stack web development course.
+This is the Wanderlust web project developed using front-end technologies, back-end technologies, and a database.
+This project is very helpful for people who are searching for rooms and hotels to stay. The website helps them find suitable rooms and hotels. 
+This project is for both room owners and hotel owners, allowing them to upload their rooms and hotel details on the website, helping travelers find their desired destinations.
 
-Here, I used frontend technologies: EJS Template for rendering the forms or pages,
-                                    Html, CSS, Bootstrap and JavaScript.
-              Backend Technologies: Node.js, Express.js.
-              Databse             : MongoDB  
- In this project, I created different module as per requirment.
- In this project, Client side validation as well server side validation also handle.
- All errors are handle as per my knowledge.
+For the front-end, I used EJS templates for rendering forms and pages, along with HTML, CSS, Bootstrap, and JavaScript. For the back-end, I used Node.js and Express.js. The database is MongoDB.
+In this project, I created different modules as per the requirements.
+In this project, both client-side and server-side validation are handled.
+ 
               
